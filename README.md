@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Muhammad Sharjeel</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A Passionate Python Developer From Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharry111&label=Profile%20views&color=0e75b6&style=flat" alt="sharry111" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasir-khan-7&label=Profile%20views&color=0e75b6&style=flat" alt="yasir-khan-7" /> </p>
 
 - 🔭 I’m currently working on **Python**
 
