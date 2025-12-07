@@ -1,103 +1,104 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Muhammad%20Sharjeel&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20AI%20Prompt%20Engineer%20%7C%20Building%20Intelligent%20Solutions&descAlignY=52&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=200&section=header&text=Muhammad%20Sharjeel&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20AI%20Prompt%20Engineer&descAlignY=55&descSize=20&descColor=8b949e" width="100%"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%9A%80+Transforming+Ideas+into+AI-Powered+Solutions;%F0%9F%A4%96+Cursor+AI+%7C+Claude+%7C+Windsurf+%7C+Trae+AI;%F0%9F%93%B1+Cross-Platform+Mobile+%26+Web+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%9A%A1+Building+AI-Powered+Solutions+at+10x+Speed;%F0%9F%A4%96+Cursor+AI+%7C+Claude+%7C+Windsurf+%7C+Trae+AI+Expert;%F0%9F%93%B1+iOS+%26+Android+Developer+%7C+Full-Stack+Engineer" alt="Typing SVG" /></a>
 
-<!-- Profile Views & Socials -->
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Sharjeel-Saleem-06&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/msharjeelsaleem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://sharjeel-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-  <a href="mailto:sharry00010@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<br>
+
+<!-- Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msharjeelsaleem/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sharjeel-portfolio.netlify.app)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharry00010@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=Sharjeel-Saleem-06&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
 ## 🧑‍💻 About Me
 
-```python
-class AIPromptEngineer:
-    def __init__(self):
-        self.name = "Muhammad Sharjeel"
-        self.role = "Full-Stack AI Prompt Engineer"
-        self.location = "Pakistan 🇵🇰"
-        self.current_focus = "Building AI-Powered Mobile & Web Applications"
-        
-    def get_skills(self):
-        return {
-            "ai_tools": ["Cursor AI", "Claude", "Windsurf", "Trae AI", "Google Antigravity"],
-            "languages": ["Python", "TypeScript", "JavaScript", "Kotlin", "Swift", "Java"],
-            "frameworks": ["Next.js", "React", "FastAPI", "React Native"],
-            "ai_ml": ["YOLOv8", "OpenCV", "LangChain", "LangGraph", "NLP", "Deep Learning"],
-            "databases": ["PostgreSQL", "MongoDB", "MySQL", "Firebase", "Supabase"]
-        }
+```typescript
+const sharjeel = {
+    role: "Full-Stack AI Prompt Engineer",
+    company: "Sideline Technologies",
+    location: "Pakistan 🇵🇰",
     
-    def current_work(self):
-        return "🔭 Building cross-platform mobile apps at Sideline Technologies"
-
-me = AIPromptEngineer()
+    currentFocus: [
+        "Building AI-Powered Mobile Apps",
+        "Cross-Platform Development",
+        "LLM Token Optimization"
+    ],
+    
+    expertise: {
+        aiTools: ["Cursor AI", "Claude", "Windsurf", "Trae AI"],
+        mobile: ["iOS (Swift)", "Android (Kotlin)", "React Native"],
+        web: ["Next.js", "React", "TypeScript", "FastAPI"],
+        ml: ["YOLOv8", "OpenCV", "LangChain", "LangGraph"]
+    },
+    
+    funFact: "I build production apps using vibe coding! 🚀"
+};
 ```
-
-<img align="right" alt="Coding" width="320" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-### 🎯 What I Do
-
-- 🤖 **AI-Powered Development** — Leveraging Cursor AI, Claude & Windsurf for 10x productivity
-- 📱 **Mobile Development** — Building iOS (Swift) & Android (Kotlin) apps from scratch
-- 🌐 **Full-Stack Web** — Next.js, React, TypeScript, FastAPI
-- 🧠 **Machine Learning** — YOLOv8, Computer Vision, NLP, LangChain
-- 💰 **LLM Optimization** — Token budgeting, cost control & inference efficiency
-
-### 🏢 Currently
-
-- 🔭 **Full-Stack AI Prompt Engineer** @ [Sideline Technologies](https://sideline-technologies.com)
-- 📱 Owning Android & iOS apps end-to-end (architecture → launch)
-- 🚀 Building AI-integrated cross-platform applications
 
 <br clear="both"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
 ### 🤖 AI & Prompt Engineering
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white"/>
+</p>
 
 ### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+</p>
 
-### 🌐 Frontend & Mobile
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+### 🌐 Frameworks & Libraries
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
 
-### ⚙️ Backend & ML
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+### 🧠 AI/ML & Computer Vision
+<p>
+<img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
 
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+### 🗄️ Databases & Cloud
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 </div>
 
@@ -106,100 +107,213 @@ me = AIPromptEngineer()
 ## 🚀 Featured Projects
 
 <div align="center">
+<table>
+<tr>
+<td width="50%">
 
+### 🎯 Kani LLM Token Optimizer
+<a href="https://kani-llm-token-optimizer.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 <a href="https://github.com/Sharjeel-Saleem-06/Kani-LLM-Token-Optimizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharjeel-Saleem-06&repo=Kani-LLM-Token-Optimizer&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**AI-powered token optimization framework**
+
+`Next.js` `TypeScript` `AI` `TailwindCSS`
+
+</td>
+<td width="50%">
+
+### 🚗 Autopilot Pro
+<a href="https://autopilot-pro.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://github.com/Sharjeel-Saleem-06/Autopilot-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharjeel-Saleem-06&repo=Autopilot-pro&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**YOLOv8-powered driving assistant**
+
+`Python` `YOLOv8` `OpenCV` `Deep Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🖼️ ImagePro Advanced
+<a href="https://imagepro-advanced.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://github.com/Sharjeel-Saleem-06/Image-pro">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharjeel-Saleem-06&repo=Image-pro&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**Advanced image processing platform**
+
+`Next.js` `TypeScript` `AI` `Image Processing`
+
+</td>
+<td width="50%">
+
+### 📄 DocConverter Pro
+<a href="https://docconverter-pro.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://github.com/Sharjeel-Saleem-06/Doc-Converter-pro">
+<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+**Multi-format document converter**
+
+`React` `Node.js` `PDF APIs` `15+ Formats`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎓 StudyFlow Quiz App
+<a href="https://studyflow-quizapp.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+**AI-powered learning platform with gamification**
+
+`Next.js` `AI` `Gamification` `50K+ Users`
+
+</td>
+<td width="50%">
+
+### 📊 Student Performance Predictor
+<a href="https://student-performance-monitoring.netlify.app/">
+<img src="https://img.shields.io/badge/LIVE-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://github.com/Sharjeel-Saleem-06/student-performance-predictor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sharjeel-Saleem-06&repo=student-performance-predictor&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</div>
+**ML-powered score prediction (88% accuracy)**
 
-<details>
-<summary><b>📂 View All Projects</b></summary>
-<br>
+`Python` `Flask` `Scikit-Learn` `XGBoost`
 
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| **🚗 Autopilot Pro** | AI-powered driving assistant with YOLOv8 | Python, YOLOv8, OpenCV | [Live](https://autopilot-pro.netlify.app/) • [Code](https://github.com/Sharjeel-Saleem-06/Autopilot-pro) |
-| **🖼️ ImagePro** | Advanced image processing platform | Next.js, TypeScript, AI | [Live](https://imagepro-advanced.netlify.app/) • [Code](https://github.com/Sharjeel-Saleem-06/Image-pro) |
-| **📄 DocConverter Pro** | Multi-format document converter | React, Node.js, PDF APIs | [Live](https://docconverter-pro.netlify.app/) • [Code](https://github.com/Sharjeel-Saleem-06/Doc-Converter-pro) |
-| **🎓 StudyFlow** | AI-powered learning platform | Next.js, AI, Gamification | [Live](https://studyflow-quizapp.netlify.app/) |
-| **🤖 AI ChatBot** | LangGraph + LangChain chatbot | Python, LangChain, Groq | [Code](https://github.com/Sharjeel-Saleem-06/Langgraph-ChatBot) |
-| **👤 Face Recognition** | Attendance system with OpenCV | Python, OpenCV, MySQL | [Code](https://github.com/Sharjeel-Saleem-06/Face-Reconition-Attendence-Sytem-) |
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-</details>
+### 🤖 AI ChatBot
+<a href="https://github.com/Sharjeel-Saleem-06/Langgraph-ChatBot">
+<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
----
+**LangGraph + LangChain intelligent chatbot**
 
-## 📊 GitHub Analytics
+`Python` `LangGraph` `LangChain` `Groq API`
 
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sharjeel-Saleem-06&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharjeel-Saleem-06&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8"/>
+</td>
+<td width="50%">
 
-</div>
+### 👤 Face Recognition Attendance
+<a href="https://github.com/Sharjeel-Saleem-06/Face-Reconition-Attendence-Sytem-">
+<img src="https://img.shields.io/badge/CODE-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sharjeel-Saleem-06&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak"/>
-</div>
+**Real-time face detection attendance system**
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharjeel-Saleem-06&theme=tokyo-night&hide_border=true&border_radius=10" width="95%"/>
-</div>
+`Python` `OpenCV` `MySQL` `Tkinter`
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sharjeel-Saleem-06&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</td>
+</tr>
+</table>
 </div>
 
 ---
 
-## 💼 Experience Timeline
+## 📈 GitHub Stats
 
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sharjeel-Saleem-06&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Sharjeel-Saleem-06&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
+
+</div>
+
+<div align="center">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sharjeel-Saleem-06&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Sharjeel-Saleem-06&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15" />
+
+</div>
+
+---
+
+## 💼 Career Journey
+
+<div align="center">
+
+```mermaid
+timeline
+    title My Professional Journey
+    2024 : Python Developer Intern
+         : Dataventiv LLC (Remote)
+         : SCADA Systems & Face Recognition
+    2025 Apr-May : Prompt Engineer
+                : ReactiveSpace (Onsite)
+                : AI Automation & NLP Chatbots
+    2025 Jun-Present : Full-Stack AI Prompt Engineer
+                    : Sideline Technologies (Onsite)
+                    : iOS & Android Development
 ```
-┌─────────────────────────────────────────────────────────────────────────┐
-│  2025 - Present  │  Full-Stack AI Prompt Engineer @ Sideline Technologies│
-│                  │  📱 Android & iOS Development | 🤖 AI Integration     │
-├──────────────────┼──────────────────────────────────────────────────────┤
-│  Apr - May 2025  │  Prompt Engineer @ ReactiveSpace                      │
-│                  │  🔧 Cursor AI Automation | 💬 NLP Chatbots            │
-├──────────────────┼──────────────────────────────────────────────────────┤
-│  Jul - Sep 2024  │  Python Developer Intern @ Dataventiv LLC             │
-│                  │  🏭 SCADA Systems | 👁️ Face Recognition               │
-└─────────────────────────────────────────────────────────────────────────┘
-```
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+TypeScript   12 hrs 30 mins  ████████████░░░░░░░░░  45.2%
+Python       8 hrs 15 mins   ███████░░░░░░░░░░░░░░  29.8%
+Swift        3 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░  13.5%
+Kotlin       2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░   7.8%
+Other        1 hr 00 mins    █░░░░░░░░░░░░░░░░░░░░   3.7%
+```
+<!--END_SECTION:waka-->
+
+---
+
+## 🤝 Let's Build Something Amazing
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/msharjeelsaleem/">
-  <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://sharjeel-portfolio.netlify.app">
-  <img src="https://img.shields.io/badge/View_My_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="mailto:sharry00010@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-**💡 Open to collaborating on AI-powered projects and innovative solutions!**
+### 💡 *"I don't just write code, I engineer intelligent solutions with AI"*
+
+<br>
+
+**🔥 Open to collaborating on AI-powered projects!**
 
 </div>
 
@@ -207,10 +321,15 @@ me = AIPromptEngineer()
 
 <div align="center">
 
-### 💭 Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=120&section=footer" width="100%"/>
