@@ -208,10 +208,6 @@ me = AIPromptEngineer()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sharjeel-Saleem-06&show_icons=true&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharjeel-Saleem-06&theme=tokyo-night&hide_border=true&border_radius=10" width="95%" alt="Contribution Activity Graph"/>
 </div>
 
