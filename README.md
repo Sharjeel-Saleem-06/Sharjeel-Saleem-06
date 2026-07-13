@@ -8,7 +8,7 @@
 
 <!-- Profile Views & Socials -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Sharjeel-Saleem-06&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=m-sharjeel-saleem&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/msharjeelsaleem/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://sharjeel-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
   <a href="mailto:sharry00010@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -112,7 +112,7 @@ me = AIPromptEngineer()
 
 ### 🎯 Kani LLM Token Optimizer
 [![Live](https://img.shields.io/badge/▲_LIVE-00C853?style=for-the-badge&logoColor=white)](https://kani-llm-token-optimizer.netlify.app/)
-[![Code](https://img.shields.io/badge/◐_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharjeel-Saleem-06/Kani-LLM-Token-Optimizer)
+[![Code](https://img.shields.io/badge/◐_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-sharjeel-saleem/Kani-LLM-Token-Optimizer)
 
 **AI-powered token optimization framework**
 
@@ -123,7 +123,7 @@ me = AIPromptEngineer()
 
 ### 🚗 Autopilot Pro
 [![Live](https://img.shields.io/badge/▲_LIVE-00C853?style=for-the-badge&logoColor=white)](https://autopilot-pro.netlify.app/)
-[![Code](https://img.shields.io/badge/◐_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharjeel-Saleem-06/Autopilot-pro)
+[![Code](https://img.shields.io/badge/◐_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-sharjeel-saleem/Autopilot-pro)
 
 **YOLOv8-powered driving assistant**
 
@@ -136,7 +136,7 @@ me = AIPromptEngineer()
 
 ### 🖼️ ImagePro Advanced
 [![Live](https://img.shields.io/badge/▲_LIVE-00C853?style=for-the-badge&logoColor=white)](https://imagepro-advanced.netlify.app/)
-[![Code](https://img.shields.io/badge/◐_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharjeel-Saleem-06/Image-pro)
+[![Code](https://img.shields.io/badge/◐_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-sharjeel-saleem/Image-pro)
 
 **Advanced image processing platform**
 
@@ -147,7 +147,7 @@ me = AIPromptEngineer()
 
 ### 📄 DocConverter Pro
 [![Live](https://img.shields.io/badge/▲_LIVE-00C853?style=for-the-badge&logoColor=white)](https://docconverter-pro.netlify.app/)
-[![Code](https://img.shields.io/badge/◐_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharjeel-Saleem-06/Doc-Converter-pro)
+[![Code](https://img.shields.io/badge/◐_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-sharjeel-saleem/Doc-Converter-pro)
 
 **Multi-format document converter**
 
@@ -170,7 +170,7 @@ me = AIPromptEngineer()
 
 ### 📊 Student Performance Predictor
 [![Live](https://img.shields.io/badge/▲_LIVE-00C853?style=for-the-badge&logoColor=white)](https://student-performance-monitoring.netlify.app/)
-[![Code](https://img.shields.io/badge/◐_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharjeel-Saleem-06/student-performance-predictor)
+[![Code](https://img.shields.io/badge/◐_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-sharjeel-saleem/student-performance-predictor)
 
 **ML-powered score prediction (88% accuracy)**
 
@@ -182,7 +182,7 @@ me = AIPromptEngineer()
 <td width="50%">
 
 ### 🤖 AI ChatBot
-[![Code](https://img.shields.io/badge/◐_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharjeel-Saleem-06/Langgraph-ChatBot)
+[![Code](https://img.shields.io/badge/◐_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-sharjeel-saleem/Langgraph-ChatBot)
 
 **LangGraph + LangChain intelligent chatbot**
 
@@ -192,7 +192,7 @@ me = AIPromptEngineer()
 <td width="50%">
 
 ### 👤 Face Recognition Attendance
-[![Code](https://img.shields.io/badge/◐_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sharjeel-Saleem-06/Face-Reconition-Attendence-Sytem-)
+[![Code](https://img.shields.io/badge/◐_CODE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/m-sharjeel-saleem/Face-Reconition-Attendence-Sytem-)
 
 **Real-time face detection attendance system**
 
@@ -208,7 +208,7 @@ me = AIPromptEngineer()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharjeel-Saleem-06&theme=tokyo-night&hide_border=true&border_radius=10" width="95%" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-sharjeel-saleem&theme=tokyo-night&hide_border=true&border_radius=10" width="95%" alt="Contribution Activity Graph"/>
 </div>
 
 ---
